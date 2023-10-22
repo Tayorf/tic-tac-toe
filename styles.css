@@ -1,6 +1,7 @@
 #board{
     padding: 3em;
     text-align: center;
+    font-family: monospace;
 }
 .row div{
     height:100px;
@@ -12,6 +13,8 @@
     clear:both;
     width: 302px;
     margin:auto;
+    font-size: xx-large;
+    line-height: 100px;
 }
 .top{
     border-bottom: 1px pink solid;
